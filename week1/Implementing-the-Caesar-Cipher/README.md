@@ -1,4 +1,4 @@
-</style>
+
 <h2> Assignment 1: Word Play </h2>
 
 You will write a program to transform words from a file into another form, such as replacing vowels with an asterix.
