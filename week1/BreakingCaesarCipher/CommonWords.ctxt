@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=rolls
+comment0.target=void\ simulate(int)
+comment1.params=rolls
+comment1.target=void\ simpleSimulate(int)
+comment2.params=
+comment2.target=java.lang.String[]\ getCommon()
+comment3.params=list\ word
+comment3.target=int\ indexOf(java.lang.String[],\ java.lang.String)
+comment4.params=resource\ common\ counts
+comment4.target=void\ countWords(edu.duke.FileResource,\ java.lang.String[],\ int[])
+comment5.params=
+comment5.target=void\ countShakespeare()
+comment6.params=alph\ message
+comment6.target=int[]\ countLetters(java.lang.String,\ java.lang.String)
+comment7.params=vals
+comment7.target=int\ maxIndex(int[])
+comment8.params=encrypted
+comment8.target=java.lang.String\ SimpleDecryptCaesar(java.lang.String)
+numComments=9

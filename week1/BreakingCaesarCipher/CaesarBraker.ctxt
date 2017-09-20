@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=alph\ message
+comment0.target=int[]\ countLetters(java.lang.String,\ java.lang.String)
+comment1.params=vals
+comment1.target=int\ maxIndex(int[])
+comment2.params=encrypted
+comment2.target=java.lang.String\ SimpleDecryptCaesar(java.lang.String)
+comment3.params=message\ key
+comment3.target=java.lang.String\ PearsString(java.lang.String,\ int)
+comment4.params=message
+comment4.target=int\ getKey(java.lang.String)
+comment5.params=values
+comment5.target=java.lang.String\ putBackTogether(java.lang.String[])
+comment6.params=message
+comment6.target=java.lang.String\ decryptTwoKeys(java.lang.String)
+comment7.params=message
+comment7.target=java.lang.String\ decryptTwoKeys2(java.lang.String)
+comment8.params=
+comment8.target=void\ testBoth()
+numComments=9
